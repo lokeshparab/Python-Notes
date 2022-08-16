@@ -1,3 +1,3 @@
 # Python-Notes
 
-This is python notes series where you can explore all types of function and syntax used in python. You can practise and implement this code using Google Colab link of every python notebook is given above of all notebook.
+This is a Python notes series that offers a comprehensive exploration of Python functions and syntax. Practice and implement this code using the Google Colab links provided above for each Python notebook. I will post all related topic notes as soon as possible. Stay tune
